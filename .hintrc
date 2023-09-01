@@ -1,0 +1,28 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "compat-api/html": [
+      "default",
+      {
+        "ignore": [
+          "meta[name=theme-color]"
+        ]
+      }
+    ],
+    "apple-touch-icons": "off",
+    "compat-api/css": "off"
+  },
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not and_chr <= 114",
+    "not chrome <= 113",
+    "not edge <= 113",
+    "not ios_saf <= 14.8",
+    "not opera <= 98",
+    "not safari <= 14.1",
+    "not samsung <= 21"
+  ]
+}
