@@ -53,4 +53,13 @@ export const ProjectData=[
         github:"https://github.com/khaymanii/Realtime_Chat_App",
         image:"https://user-images.githubusercontent.com/116851212/230574962-aec65eef-d5a2-4a4f-8182-a7537cf9815b.png",
     },
+    {
+        id:1,
+        title:"Admin Dashboard UI",
+        about: " This is an Admin dashboard User Interface, it is actually a demo project.",
+        tags:["HTML", "CSS", "JavaScript", "React", "SyncFusion"],
+        demo:"https://admin-dashboardui.netlify.app/",
+        github:"https://github.com/khaymanii/Admin_Dashboard_UI",
+        image:"https://user-images.githubusercontent.com/116851212/230338778-94c5ef1d-fdcb-40de-932c-d06ca5470c07.png",
+    },
 ];
