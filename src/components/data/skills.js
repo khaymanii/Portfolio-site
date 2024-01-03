@@ -44,25 +44,4 @@ export const SkillsData = [
       },
     ],
   },
-  {
-    type: "Machine Learning & Deep Learning",
-    list: [
-      {
-        name: "Python",
-        icon: <i class="devicon-python-plain colored"></i>
-      },
-      {
-        name: "Tensorflow",
-        icon: <i class="devicon-tensorflow-original colored"></i>
-      },
-      {
-        name: "Numpy",
-        icon: <i class="devicon-numpy-original colored"></i>
-      },
-      {
-        name: "Pandas",
-        icon: <i class="devicon-pandas-original colored"></i>
-      },
-    ],
-  },
 ];
