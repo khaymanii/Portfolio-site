@@ -1,13 +1,5 @@
 export const WorkData = [
     {
-        company: "Omdena" ,
-        designation: "Machine Learning Engineer (Intern)",
-        dateJoining: "May 2023",
-        dateEnd: "Present",
-        companyLogo:"https://omdena.com/wp-content/uploads/2022/10/Favicon.png",
-        work:"•	Collaborated with 30 to 40 team members to build and integrate trained models, i served as lead github project manager, overseeing version control, issue tracking and collaboration among team members. I prototyped machine learning applications and quickly determined application viability, i also implemented artificial intelligence and machine learning algorithms that solve real world problems.",
-    },
-    {
         company: "Freelancer" ,
         designation: "Frontend Engineer",
         dateJoining: "February 2022",
