@@ -62,4 +62,13 @@ export const ProjectData=[
         github:"https://github.com/khaymanii/Admin_Dashboard_UI",
         image:"https://user-images.githubusercontent.com/116851212/230338778-94c5ef1d-fdcb-40de-932c-d06ca5470c07.png",
     },
+        {
+        id:1,
+        title:"Promptopia",
+        about: "This is a Full stack Next Js web app built using Next Js and MongoDB database, it is an AI prompting tool for modern world to discover, create and share creative prompts.",
+        tags:["HTML", "Tailwind CSS", "JavaScript", "React", "NextJs", "MongoDB"],
+        demo:"https://promptopia-khaymanii.vercel.app/",
+        github:"https://github.com/khaymanii/Promptopia",
+        image:"https://github.com/khaymanii/Promptopia/assets/116851212/66189dc9-e119-4d50-864a-483a9eafd2d6",
+    },
 ];
