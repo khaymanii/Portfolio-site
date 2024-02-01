@@ -1,10 +1,10 @@
 export const WorkData = [
     {
-        company: "Freelancer" ,
+        company: "Tublian" ,
         designation: "Frontend Engineer",
-        dateJoining: "February 2022",
+        dateJoining: "January 2023",
         dateEnd: "Present",
-        companyLogo:"https://seeklogo.com/images/F/freelancer-com-logo-2B5CE1A961-seeklogo.com.png",
-        work:"• Collaborated with multidisciplinary teams to design and implement new technology features. I worked closely with other team members in such tasks as troubleshooting and debugging. I developed and implemented personalized client solutions using programming language expertise, designed reusable and reliable code for use in cloud environments."
+        companyLogo:"https://www.tublian.com/static/media/new-logo.0852124c.svg",
+        work:"• Collaborated with multidisciplinary teams to design and implement new technology features. I worked closely with other team members in such tasks as troubleshooting and debugging. Actively participating in the development of open-source software by submitting code, bug fixes, or new features to different companies e.g Next UI, Biodrop, Microsoft LightGBM. Promoting the open-source project through various channels, participating in conferences or meetups, and encouraging community involvement."
     },
 ]
