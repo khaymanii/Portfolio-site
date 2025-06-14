@@ -1,74 +1,75 @@
-export const ProjectData=[
-    {
-        id:1,
-        title:"Trippy Web UI",
-        about: " Trippy Landing Page Design Using ( React.Js ). Trippy is a tour and travelling multipage responsive website.",
-        tags:["ReactJS", "Web Design", "javascript" , "Web Development"],
-        demo:"https://trippy-tour-ui.netlify.app/",
-        github:"https://github.com/khaymanii/Trippy-Tour-Website-UI",
-        image:"https://user-images.githubusercontent.com/116851212/230354388-1188e97e-381e-4817-8cc6-19f7d72b8f88.png",
-    },
-    {
-        id:1,
-        title:"Freeresources",
-        about: " This is an Open source community of All-inclusive free tech resources project in which i contributed to. This project entails all the free resources ranging from tutorial videos,documents,textbooks required in tech to enable learners and tech enthusiast chase their dreams.",
-        tags:["Html", "Css", "Javascript", "React" , "Web Development"],
-        demo:"https://www.freeresources.tech/",
-        github:"https://github.com/masiedu4/Free-Learning-Resources",
-        image:"https://github.com/khaymanii/Free-Learning-Resources/assets/116851212/34f05a91-328e-44d5-9da0-7c76d2e3de75",
-    },
-    {
-        id:1,
-        title:"SwiftCargo",
-        about: " This is one of my vetting task project giving to me when i applied for a job. it's a logistics company website User Interface built using Html, Css, Bootstrap and Javascript.",
-        tags:["HTML", "CSS", "JavaScript" , "Bootstrap"],
-        demo:"https://swiftcargo.netlify.app/",
-        github:"https://github.com/khaymanii/Swiftcargo",
-        image:"https://github.com/khaymanii/Swiftcargo/assets/116851212/66069088-705c-484e-b14f-985b2cde99c3",
-    },
-    {
-        id:1,
-        title:"Sushiman",
-        about: " This is a Japanese restaurant website User Interface called Sushiman, it is actually a demo project.",
-        tags:["HTML", "CSS", "JavaScript"],
-        demo:"https://sushimanrestaurant.netlify.app/",
-        github:"https://github.com/khaymanii/Sushiman-website",
-        image:"https://github.com/khaymanii/Sushiman-website/assets/116851212/e51b5181-9a06-437a-a570-8564e1b04162",
-    },
-    {
-        id:1,
-        title:"Goldsgym",
-        about: " This is a Gym website User Interface built using react, it is actually a demo project.",
-        tags:["HTML", "CSS", "JavaScript", "React"],
-        demo:"https://goldsgymui.netlify.app/",
-        github:"https://github.com/khaymanii/Goldsgym_Fitness_UI",
-        image:"https://i.ibb.co/Yt9spGc/image.png",
-    },
-    {
-        id:1,
-        title:"Realtime Chat App",
-        about: " This is a FullStack chat app built using React and Firebase, it is actually a demo project.",
-        tags:["HTML", "CSS", "JavaScript", "React", "Firebase"],
-        demo:"https://realtime-chatapp2.netlify.app/login",
-        github:"https://github.com/khaymanii/Realtime_Chat_App",
-        image:"https://user-images.githubusercontent.com/116851212/230574962-aec65eef-d5a2-4a4f-8182-a7537cf9815b.png",
-    },
-    {
-        id:1,
-        title:"Admin Dashboard UI",
-        about: " This is an Admin dashboard User Interface, it is actually a demo project.",
-        tags:["HTML", "CSS", "JavaScript", "React", "SyncFusion"],
-        demo:"https://admin-dashboardui.netlify.app/",
-        github:"https://github.com/khaymanii/Admin_Dashboard_UI",
-        image:"https://user-images.githubusercontent.com/116851212/230338778-94c5ef1d-fdcb-40de-932c-d06ca5470c07.png",
-    },
-        {
-        id:1,
-        title:"Promptopia",
-        about: "This is a Full stack Next Js web app built using Next Js and MongoDB database, it is an AI prompting tool for modern world to discover, create and share creative prompts.",
-        tags:["HTML", "Tailwind CSS", "JavaScript", "React", "NextJs", "MongoDB"],
-        demo:"https://promptopia-khaymanii.vercel.app/",
-        github:"https://github.com/khaymanii/Promptopia",
-        image:"https://github.com/khaymanii/Promptopia/assets/116851212/66189dc9-e119-4d50-864a-483a9eafd2d6",
-    },
+export const ProjectData = [
+  {
+    id: 1,
+    title: "Buyweb",
+    about:
+      "Buyweb is a platform that sells beautiful ready-made website and website template on budget, at a cheaper and affordable rates to SME.",
+    tags: ["ReactJS", "Web Design", "javascript", "Web Development"],
+    demo: "https://www.buyweb.com/",
+    github: "https://www.buyweb.com/",
+    image:
+      "https://user-images.githubusercontent.com/116851212/230354388-1188e97e-381e-4817-8cc6-19f7d72b8f88.png",
+  },
+  {
+    id: 2,
+    title: "AlienUI Organization",
+    about:
+      "An Organization where next-gen developer tools and UI ibraries are built. AlienUI Org has four products; AlienUI, AlienUi React, AlienX and Alienicons.",
+    tags: ["Html", "Css", "Javascript", "React", "Web Development"],
+    demo: "https://auiorg.vercel.app/",
+    github: "https://github.com/AlienUI-Org/",
+    image:
+      "https://github.com/khaymanii/Free-Learning-Resources/assets/116851212/34f05a91-328e-44d5-9da0-7c76d2e3de75",
+  },
+  {
+    id: 3,
+    title: "AlienX",
+    about:
+      "A powerful VS Code snippet extension that generates UI Components of several UI libraries for web and mobile app  within seconds, right in your VS Code IDE. AlienX supports UI components of variuous notable UI libraries ranging from MaterialUI, GluestackUI and DaisyUI.",
+    tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "VS Code Extension"],
+    demo: "https://marketplace.visualstudio.com/items?itemName=AlienUI.alienx",
+    github: "https://github.com/khaymanii/AlienX/",
+    image:
+      "https://github.com/khaymanii/Swiftcargo/assets/116851212/66069088-705c-484e-b14f-985b2cde99c3",
+  },
+  {
+    id: 4,
+    title: "Buygun",
+    about:
+      "Buygun is a warfare ecommerce web store where first grade arms and ammunitions ranging from gun to grenade to bullet etc are sold.",
+    tags: ["HTML", "CSS", "JavaScript", "React", "Web Development"],
+    demo: "https://buy-gun.vercel.app/",
+    github: "https://github.com/khaymanii/BuyGun",
+    image:
+      "https://private-user-images.githubusercontent.com/116851212/398888964-332bd943-e73d-498e-b674-48d97eb6b2e4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk5Mzk3OTYsIm5iZiI6MTc0OTkzOTQ5NiwicGF0aCI6Ii8xMTY4NTEyMTIvMzk4ODg4OTY0LTMzMmJkOTQzLWU3M2QtNDk4ZS1iNjc0LTQ4ZDk3ZWI2YjJlNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxNFQyMjE4MTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNzc5YTlhZWU3NTFmNmFjMGI0NzhiMDViYjU3YmEzYTUyZWU2Y2MzYWQ1Zjg1ZjEwOTEwYzEyZWE2OGU5MzIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.uoPQ7-jSyvvNgela0v4_m3Y5IRhaWO60zLG1UexLs1I",
+  },
+  {
+    id: 5,
+    title: "Buygun Mobile App",
+    about:
+      "Buygun is a warfare ecommerce mobile app store where first grade arms and ammunitions ranging from gun to grenade to bullet etc are sold.",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React Native",
+      "Web Development",
+      "Mobile App",
+    ],
+    demo: "https://www.webmobilefirst.com/en/screencasts/10m5eqjvp2bgw3/",
+    github: "https://github.com/khaymanii/BuyGun-App",
+    image:
+      "https://private-user-images.githubusercontent.com/116851212/398888964-332bd943-e73d-498e-b674-48d97eb6b2e4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk5Mzk3OTYsIm5iZiI6MTc0OTkzOTQ5NiwicGF0aCI6Ii8xMTY4NTEyMTIvMzk4ODg4OTY0LTMzMmJkOTQzLWU3M2QtNDk4ZS1iNjc0LTQ4ZDk3ZWI2YjJlNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxNFQyMjE4MTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNzc5YTlhZWU3NTFmNmFjMGI0NzhiMDViYjU3YmEzYTUyZWU2Y2MzYWQ1Zjg1ZjEwOTEwYzEyZWE2OGU5MzIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.uoPQ7-jSyvvNgela0v4_m3Y5IRhaWO60zLG1UexLs1I",
+  },
+  {
+    id: 6,
+    title: "Admin Dashboard UI",
+    about:
+      " This is an Admin dashboard User Interface, it is actually a demo project.",
+    tags: ["HTML", "CSS", "JavaScript", "React", "SyncFusion"],
+    demo: "https://admin-dashboardui.netlify.app/",
+    github: "https://github.com/khaymanii/Admin_Dashboard_UI",
+    image:
+      "https://user-images.githubusercontent.com/116851212/230338778-94c5ef1d-fdcb-40de-932c-d06ca5470c07.png",
+  },
 ];
