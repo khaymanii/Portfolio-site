@@ -1,3 +1,5 @@
+import SupabaseOriginal from "devicons-react/icons/SupabaseOriginal";
+
 export const SkillsData = [
   {
     type: "Web-Development",
@@ -35,6 +37,12 @@ export const SkillsData = [
         icon: <i class="devicon-firebase-plain colored"></i>,
       },
       {
+        name: "Supabase",
+        icon: (
+          <SupabaseOriginal className="devicon-supabase-original colored" />
+        ),
+      },
+      {
         name: "Appwrite",
         icon: <i class="devicon-appwrite-plain colored"></i>,
       },
@@ -45,6 +53,19 @@ export const SkillsData = [
       {
         name: "PostgreSQL",
         icon: <i class="devicon-postgresql-plain colored"></i>,
+      },
+    ],
+  },
+  {
+    type: "App-Development",
+    list: [
+      {
+        name: "Nativewind CSS",
+        icon: <i class="devicon-tailwindcss-plain colored"></i>,
+      },
+      {
+        name: "React Native",
+        icon: <i class="devicon-react-original colored"></i>,
       },
     ],
   },
