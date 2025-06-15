@@ -5,8 +5,8 @@ export const ProjectData = [
     about:
       "A platform that sells beautiful ready-made website and website template on budget, at a cheaper and affordable rate to SME.",
     tags: ["ReactJS", "Web Design", "javascript", "Web Development"],
-    demo: "https://www.buyweb.com/",
-    github: "https://www.buyweb.com/",
+    demo: "https://www.buyweb.live/",
+    github: "https://www.buyweb.live/",
     image:
       "https://github.com/user-attachments/assets/460a9145-390e-4dcd-b13e-3583343ab1fb",
   },
