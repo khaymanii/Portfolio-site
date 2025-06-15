@@ -1,4 +1,4 @@
-export const ProjectData = [
+iexport const ProjectData = [
   {
     id: 1,
     title: "Buyweb",
@@ -79,6 +79,6 @@ export const ProjectData = [
     demo: "https://js-fusion.vercel.app/",
     github: "https://github.com/khaymanii/JSFusion",
     image:
-      "https://private-user-images.githubusercontent.com/116851212/400573059-bd67852e-96b9-4754-86c2-723c7bb53d28.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk5NDE5NzMsIm5iZiI6MTc0OTk0MTY3MywicGF0aCI6Ii8xMTY4NTEyMTIvNDAwNTczMDU5LWJkNjc4NTJlLTk2YjktNDc1NC04NmMyLTcyM2M3YmI1M2QyOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxNFQyMjU0MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNjJkNzcyYTM4YTYyOTUyYWI5NmQxY2UzNzc5YTA1ODE0YjI5ODBhYjQ4MThiOGYzMjllNjYwZDgyZDZkMzJmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._SpPrBlhskYa-zdTmOeFnvLg4jKWratWX50aW9vKbpc",
+      "https://github.com/user-attachments/assets/bd67852e-96b9-4754-86c2-723c7bb53d28",
   },
 ];
