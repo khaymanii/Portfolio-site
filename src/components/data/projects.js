@@ -1,4 +1,4 @@
-iexport const ProjectData = [
+export const ProjectData = [
   {
     id: 1,
     title: "Buyweb",
